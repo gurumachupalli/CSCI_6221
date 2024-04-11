@@ -1,0 +1,13 @@
+Patient_ID,Patient_Before,EffSeizures_After,Akkermansia_muciniphila_CP001071.1,Bacteroides_caccae_CP022412.2,Akkermansia_muciniphila_CP015409.2
+pa03,patient ,R,0.000214,0.043905,0.000548
+pa04,patient ,R,0.0038,0.0003,0.004
+pa05,patient ,NR,0.000013,0.128706,0.000007
+pa06,patient ,R,0.000016,0.251138,0.000034
+pa08,patient ,NR,0.046365,0.00068,0.106547
+pa10,patient ,NR,0.081549,0.028902,0.038271
+pa11,patient ,NR,0.011276,0.000481,0.005397
+pa18,patient ,R,0.000024,0.076376,0.00001
+pa19,patient ,NR,0.001712,0.009269,0.0041
+pa22,patient ,NR,0.05556,0.010666,0.026441
+pa23,patient ,NR,0.043675,0.045317,0.020533
+pa28,patient ,R,0.00568,0.245909,0.002886
